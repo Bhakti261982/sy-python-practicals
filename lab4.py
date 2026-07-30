@@ -8,4 +8,4 @@ elif signals =="yellow":
 elif signals =="green":
     print("action:go")
 else:
-    print("invalid colour")
+    print("invalid signals")
